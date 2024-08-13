@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
   <a href="https://www.linkedin.com/in/moksh-shah-5b7b75312/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linkedin&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin logo"  />
   </a>
   <a href="https://leetcode.com/u/MokshShahh/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" height="25" alt="Leetcode logo"  />
+  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Leetcode logo"  />
   </a>
 </div>
 
