@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Moksh from Mumbai, India<br><br>- 🔭 Currently pursuing B-Tech from Mukesh Patel<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time, I go trekking, run marathons, read books, and pursue photography.</p>
+<p align="left">I'm Moksh from Mumbai, India<br><br>- 🔭 Currently pursuing B-Tech from Mukesh Patel<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time, I go Trekking, Run Marathons, Read Books, and Pursue Photography.</p>
 
 ###
 
