@@ -17,15 +17,15 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">I make things happen (sometimes)</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Moksh from Mumbai, India<br><br>- 🔭 Currently pursuing B-Tech from Mukesh Patel<br>- 📚 I'm currently learning Neural Networks and Transformer architecture <br>- ⚡ In my free time, I go Trekking, Run Marathons, Read Books, and Pursue Photography.</p>
+<p align="left">I'm Moksh from Mumbai, India<br><br>- Usually like doing this<br>
 
 ###
 
