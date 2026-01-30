@@ -23,9 +23,8 @@
 
 <h3 align="left">About Me</h3>
 
-###
 
-<p align="left">I'm Moksh from Mumbai, India<br><br>- Usually like doing this<br>- Occasionally contemplating a move to the mountains<br>
+<p align="left">- Usually like doing this<br>- Occasionally contemplating a move to the mountains<br>
 
 ###
 
